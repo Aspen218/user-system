@@ -1,2 +1,11 @@
-# user-system
-my first backend project
+# 用户管理系统（User System）
+
+## 📌 项目介绍
+这是我第一个后端项目，用于学习 Java + MySQL + Spring Boot。
+
+## 🚀 当前进度
+- 2026.03.29 创建项目
+
+## 📈 计划
+- 实现用户增删改查
+- 连接数据库
