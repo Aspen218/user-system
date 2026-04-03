@@ -19,7 +19,7 @@ int main(){
 	}
 	for(int i=0;i<N;i++){
 		int c2=A[i]/(B[i]+1);
-		mini=max(minv,c2);
+		mini=max(mini,c2);
 	}
 	minv=mini+1;
 	cout<<minv<<" "<<maxv;
